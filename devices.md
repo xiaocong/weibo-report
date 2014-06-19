@@ -27,3 +27,6 @@
 
 - smartisan | SM701
 
+## 华为
+
+- Huawei | G620-L75
