@@ -16,6 +16,7 @@
 
 - Xiaomi | MI 3
 - Xiaomi | 2013023
+- Xiaomi | 2013022
 - Xiaomi | MI 2
 - Xiaomi | MI-ONE Plus
 - Xiaomi | MI 1S
