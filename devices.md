@@ -34,3 +34,4 @@
 ## 三星
 
 - samsung | GT-I9500
+- samsung | SM-N9008V
