@@ -22,6 +22,7 @@
 - Xiaomi | MI 1S
 - Xiaomi | MI 2S
 - Xiaomi | MI 3S
+- Xiaomi | HM NOTE 1TD
 
 ## 锤子
 
