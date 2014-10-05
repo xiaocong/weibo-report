@@ -27,6 +27,7 @@
 ## 锤子
 
 - smartisan | SM701
+- smartisan | SM705
 
 ## 华为
 
